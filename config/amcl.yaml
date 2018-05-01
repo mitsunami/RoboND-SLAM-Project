@@ -1,0 +1,7 @@
+    max_particles: 500
+    min_particles: 30
+    transform_tolerance: 0.3
+    controller_frequency: 10.0
+    initial_pose_x: 0.0
+    initial_pose_y: 0.0
+    initial_pose_a: 0.0 #-0.7854 # -pi/4
